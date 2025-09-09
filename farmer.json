@@ -4,7 +4,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "TaxCredential": {
-      "@id": "https://Durga0417.github.io/farmer/farmer.json#TaxCredential"
+      "@id": "https://Durga0417.github.io/farmer/farmer.json#FarmerCredential"
     },
     "date_of_birth": "schema:Text",
     "id_type": "schema:Text",
