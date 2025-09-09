@@ -1,0 +1,15 @@
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "TaxCredential": {
+      "@id": "https://Durga0417.github.io/farmer/farmer.json#TaxCredential"
+    },
+    "date_of_birth": "schema:Text",
+    "id_type": "schema:Text",
+    "farmer_id": "schema:Text",
+    "issued_on": "schema:Text",
+    "expired_on": "schema:Text"
+  }
+}
